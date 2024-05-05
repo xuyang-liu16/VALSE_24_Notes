@@ -3,6 +3,8 @@
 
 1. [2023-2024年度重要学术进展](/Slides/VALSE_24_年度重要学术进展.pdf)
 
-2. [面相大模型的新型高效率网络架构（RWKV/RetNet/Mamba）](/Slides/VALSE_24_Mamba.pdf)
+2. [视频生成（基于SD逐帧生成/基于时空Patches生成）](/Slides/VALSE_24_T2V.pdf)
 
-3. [视觉基础大模型（Large Vision Model, LVM）](/Slides/VALSE_24_LVM.pdf)
+3. [面相大模型的新型高效率网络架构（RWKV/RetNet/Mamba）](/Slides/VALSE_24_Mamba.pdf)
+
+4. [视觉基础大模型（Large Vision Model, LVM）](/Slides/VALSE_24_LVM.pdf)
