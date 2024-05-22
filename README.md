@@ -7,6 +7,6 @@
    
 3. [视频生成（基于SD逐帧生成/基于时空Patches生成）](/Slides/VALSE_24_T2V.pdf)
 
-4. [面相大模型的新型高效率网络架构（RWKV/RetNet/Mamba）](/Slides/VALSE_24_Mamba.pdf)
+4. [面向大模型的新型高效率网络架构（RWKV/RetNet/Mamba）](/Slides/VALSE_24_Mamba.pdf)
 
 5. [视觉基础大模型（Large Vision Model, LVM）](/Slides/VALSE_24_LVM.pdf)
